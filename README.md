@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">I'm a passionate individual enthusiastic about web development and responsive design.</h3>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase, React-Native**
 
 - 👨‍💻 All of my projects are available at [Portafolio](https://luisportafolio.vercel.app/)
 
