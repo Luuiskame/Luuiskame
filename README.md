@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Portafolio](https://luisportafolio.vercel.app/)
 
-- 💬 Ask me about **React, CSS**
+- 💬 Ask me about **React, NEXTjs, Tailwind CSS**
 
 - 📫 How to reach me **yuiftw05@gmail.com**
 
